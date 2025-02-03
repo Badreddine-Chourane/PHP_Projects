@@ -1,0 +1,3 @@
+[submodule "crud_php"]
+	path = crud_php
+	url = https://github.com/Badreddine-Chourane/crud-php.git
